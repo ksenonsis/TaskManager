@@ -4,7 +4,7 @@ using System.Windows.Forms;
 
 namespace TaskManager
 {
-    // Форма для добавления или редактирования задачи
+    // Форма для добавления или редактирования 
     public class AddTaskForm : Form
     {
         // Поля формы
